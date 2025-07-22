@@ -1,11 +1,18 @@
-<h1 align="center">Hey 👋, I'm Shagor Robidas</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffc3,100:6e00ff&height=200&section=header&text=Hey%20👋%2C%20I'm%20Shagor%20Robidas&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
 <h3 align="center">Software Engineer | Django Backend Developer | Python Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://github.com/shagorrobidas">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&center=true&vCenter=true&color=00FFBF&width=435&lines=Backend+Developer+with+Django;REST+API+specialist;Clean+Code+Advocate;Open+Source+Lover" />
   </a>
 </p>
+
+
+
 
 ---
 
