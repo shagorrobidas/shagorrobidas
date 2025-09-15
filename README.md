@@ -21,7 +21,7 @@
 
 - 👨‍💻 Software Engineer at **Join Venture AI**
 - 🛠️ Building full-stack apps with **Django + DRF + PostgreSQL**
-- 🌍 Based in **Bangladesh** | Fluent in `Python`, `Django`, `Rest API`, `SQL`, `HTML`, `CSS`, `Bootstrap` and `JavaScript`
+- 🌍 Based in **Bangladesh** | Fluent in `Python`, `Django`, `Rest API`, `Web Socket`, `Channel`, `Redis`, `SQL`, `HTML`, `CSS`, `Bootstrap` and `JavaScript`
 - 📚 Learning **Docker**, **GraphQL**, and **Cloud deployment**
 - 🤝 Actively contributing to open-source and collaborative projects
 - 📫 Email: [roysagor88@gmail.com](mailto:roysagor88@gmail.com)
