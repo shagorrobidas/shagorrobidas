@@ -46,10 +46,16 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/shagorrobidas/shagorrobidas/master/Skills_Animation_Dark.gif" width="400" alt="Skills Animation" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🔥 My Featured Projects
