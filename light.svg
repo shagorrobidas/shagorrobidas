@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <defs>
+    <style>
+      .banner-bg { fill: #ffffff; }
+      .banner-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; fill: #24292f; }
+      .banner-title { font-size: 64px; font-weight: bold; }
+      .banner-subtitle { font-size: 32px; fill: #0969da; }
+      .banner-accent { fill: #1f6feb; }
+    </style>
+  </defs>
+  
+  <rect class="banner-bg" width="1200" height="400"/>
+  
+  <line x1="0" y1="120" x2="1200" y2="120" class="banner-accent" stroke-width="3"/>
+  
+  <text x="60" y="200" class="banner-text banner-title">Shagor Robidas</text>
+  <text x="60" y="260" class="banner-text banner-subtitle">Full Stack Developer</text>
+  
+  <text x="60" y="320" class="banner-text" style="font-size: 18px; fill: #57606a;">Building amazing web experiences with Django & React</text>
+</svg>
